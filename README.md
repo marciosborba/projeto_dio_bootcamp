@@ -1,2 +1,2 @@
-# projeto_dio_carrefour
-Projeto Bootcamp Carrefour
+# projeto_dio
+Projeto Bootcamp Dio
